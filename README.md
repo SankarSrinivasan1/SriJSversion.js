@@ -2,6 +2,7 @@
 
 To use this library, you would need to create an instance of the SriJSVersion class and call its methods according to your requirements. Here's an example usage:
 
+```JavaScript 
 const SriJSVersion = require('./SriJSVersion');
 
 const sriJSVersion = new SriJSVersion();
@@ -22,3 +23,4 @@ sriJSVersion.createReleaseTag(newVersion);
 
 // Release version
 sriJSVersion.release('1.1.0', 'Add another feature');
+```
