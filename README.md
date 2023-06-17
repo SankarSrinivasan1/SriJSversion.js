@@ -13,11 +13,34 @@ SriJSVersion.js is an automation library that simplifies the versioning and rele
 
 ## Installation
 
-You can install SriJSVersion.js using npm:
+To install the SriJSVersion.js automation library, follow the steps below:
 
-```bash
-npm install srijsversion
-```
+1. Ensure that you have Node.js installed on your system. SriJSVersion.js requires Node.js to run. You can download and install Node.js from the official Node.js website: [https://nodejs.org](https://nodejs.org)
+
+2. Open a terminal or command prompt.
+
+3. Navigate to your project directory using the `cd` command. For example:
+   ```bash
+   cd path/to/your/project
+   ```
+
+4. Run the following command to install SriJSVersion.js via npm:
+   ```bash
+   npm install srijsversion
+   ```
+
+   This command will download the SriJSVersion.js package from the npm registry and install it locally within your project.
+
+5. SriJSVersion.js is now installed and ready to be used in your project.
+
+6. You can import the SriJSVersion module in your JavaScript files using the `require` statement:
+   ```javascript
+   const SriJSVersion = require('srijsversion');
+   ```
+
+7. Refer to the SriJSVersion.js documentation or the provided example usage in the README to learn how to use the library's features in your project.
+
+Note: If you encounter any issues during installation or usage, ensure that you have a stable internet connection and that your Node.js environment is properly set up.
 
 ## Usage
 
