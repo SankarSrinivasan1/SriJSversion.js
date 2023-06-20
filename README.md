@@ -101,4 +101,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 SriJSVersion.js was inspired by the need for simplified versioning and release management in JavaScript projects.
 
-Contact Sankar Srinivasan petra.srini@gmail.com
+Contact [Sankar Srinivasan](https://withkoji.com/@sankarsrinivasan)
