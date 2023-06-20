@@ -1,6 +1,7 @@
 # SriJSVersion.js
 
-SriJSVersion.js is an automation library that simplifies the versioning and release management process for JavaScript projects. It provides features such as automatic version number generation, changelog updates, and release tagging, allowing developers to focus on development rather than manual version management tasks.
+### SriJSVersion.js is an automation library that simplifies the versioning and release management process for JavaScript projects.
+### It provides features such as automatic version number generation, changelog updates, and release tagging, allowing developers to focus on development rather than manual version management tasks.
 
 ## Features
 
